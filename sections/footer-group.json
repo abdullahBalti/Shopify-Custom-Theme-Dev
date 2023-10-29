@@ -1,0 +1,54 @@
+{
+  "name": "t:sections.footer.name",
+  "type": "footer",
+  "sections": {
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "f632486a-102f-4d84-8656-171a1c59cf6a": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Brace_Kinetics_Logo-01_fb14d6e3-50c9-4732-b53c-785188529713.png",
+            "image_width": 250,
+            "alignment": ""
+          }
+        },
+        "308c4261-a9cc-4f10-9dfa-967aebe1fcef": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Quick links",
+            "menu": "main-menu"
+          }
+        },
+        "950f6e51-0bc6-4daa-8b5a-9ccf7d89f6b9": {
+          "type": "brand_information",
+          "settings": {
+            "show_social": true
+          }
+        }
+      },
+      "block_order": [
+        "f632486a-102f-4d84-8656-171a1c59cf6a",
+        "308c4261-a9cc-4f10-9dfa-967aebe1fcef",
+        "950f6e51-0bc6-4daa-8b5a-9ccf7d89f6b9"
+      ],
+      "settings": {
+        "color_scheme": "accent-1",
+        "newsletter_enable": false,
+        "newsletter_heading": "Subscribe to our emails",
+        "enable_follow_on_shop": false,
+        "show_social": false,
+        "enable_country_selector": false,
+        "enable_language_selector": false,
+        "payment_enable": false,
+        "show_policy": false,
+        "margin_top": 0,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "footer"
+  ]
+}

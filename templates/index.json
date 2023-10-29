@@ -1,0 +1,316 @@
+{
+  "sections": {
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Browse Your Latest Products",
+            "heading_size": "h0"
+          }
+        },
+        "e9df36f5-0090-424d-ae12-17b6740adf42": {
+          "type": "text",
+          "settings": {
+            "text": "Lorem ipsum dolor sit amet consectetur adipiscing elit quis, est suspendisse pellentesque laoreet cursus dignissim eros semper, ridiculus penatibus porttitor auctor cum egestas leo, mi duis magna ad diam nostra mauris.",
+            "text_style": "subtitle"
+          }
+        },
+        "button": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Shop Now",
+            "button_link_1": "shopify:\/\/collections\/all",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "e9df36f5-0090-424d-ae12-17b6740adf42",
+        "button"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Brace_Kinetics_Logo-01.jpg",
+        "image_2": "shopify:\/\/shop_images\/Sce577e4f62c74abe8a64f5195b3da8f5g.jpg",
+        "image_overlay_opacity": 40,
+        "image_height": "large",
+        "desktop_content_position": "middle-left",
+        "show_text_box": false,
+        "desktop_content_alignment": "left",
+        "color_scheme": "inverse",
+        "image_behavior": "zoom-in",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "23a3273a-41ab-4936-8491-ca40a1699ad9": {
+      "type": "collection-list",
+      "blocks": {
+        "template--21365447164200__23a3273a-41ab-4936-8491-ca40a1699ad9-featured_collection-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "elbow-braces"
+          }
+        },
+        "template--21365447164200__23a3273a-41ab-4936-8491-ca40a1699ad9-featured_collection-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "heat-treatment"
+          }
+        },
+        "template--21365447164200__23a3273a-41ab-4936-8491-ca40a1699ad9-featured_collection-3": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "kids"
+          }
+        },
+        "8c8175e4-5bfe-4131-a733-078393bbae09": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "knee-braces"
+          }
+        }
+      },
+      "block_order": [
+        "template--21365447164200__23a3273a-41ab-4936-8491-ca40a1699ad9-featured_collection-1",
+        "template--21365447164200__23a3273a-41ab-4936-8491-ca40a1699ad9-featured_collection-2",
+        "template--21365447164200__23a3273a-41ab-4936-8491-ca40a1699ad9-featured_collection-3",
+        "8c8175e4-5bfe-4131-a733-078393bbae09"
+      ],
+      "settings": {
+        "title": "<strong>Our Collections<\/strong>",
+        "heading_size": "h0",
+        "image_ratio": "square",
+        "columns_desktop": 4,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 80,
+        "padding_bottom": 40
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "<strong>Latest Products<\/strong>",
+        "heading_size": "h0",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "all",
+        "products_to_show": 3,
+        "columns_desktop": 3,
+        "full_width": false,
+        "show_view_all": false,
+        "view_all_style": "link",
+        "enable_desktop_slider": true,
+        "color_scheme": "scheme-6e25c79b-c0cb-4321-b72f-8f35ebde3b27",
+        "image_ratio": "portrait",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": true,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "132ecb95-18b2-4a48-938d-f09e900474b1": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--21365447164200__132ecb95-18b2-4a48-938d-f09e900474b1-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Lorem ipsum dolor sit amet consectetur",
+            "heading_size": "h1"
+          }
+        },
+        "template--21365447164200__132ecb95-18b2-4a48-938d-f09e900474b1-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Lorem ipsum dolor sit amet consectetur adipiscing elit quis, est suspendisse pellentesque laoreet cursus dignissim eros semper, ridiculus penatibue.<\/p>",
+            "text_style": "subtitle"
+          }
+        },
+        "template--21365447164200__132ecb95-18b2-4a48-938d-f09e900474b1-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop Now",
+            "button_link": "shopify:\/\/collections\/all",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--21365447164200__132ecb95-18b2-4a48-938d-f09e900474b1-heading-1",
+        "template--21365447164200__132ecb95-18b2-4a48-938d-f09e900474b1-text-1",
+        "template--21365447164200__132ecb95-18b2-4a48-938d-f09e900474b1-button-1"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/H597a48d2bcfd4683af87843ceeb85f15d.jpg",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "scheme-4685ada2-7844-4f0c-89b7-56f0c042da94",
+        "image_behavior": "zoom-in",
+        "mobile_content_alignment": "left",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "0c1e562a-92ea-4b27-b012-58b2fec474ae": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "<strong>Knee<\/strong>",
+        "heading_size": "h0",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "knee-braces",
+        "products_to_show": 3,
+        "columns_desktop": 3,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "scheme-6e25c79b-c0cb-4321-b72f-8f35ebde3b27",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": true,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "4ac64540-74b3-44b5-9333-7a5c222c4485": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--21365447164200__4ac64540-74b3-44b5-9333-7a5c222c4485-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>3 In 1 Heating<\/strong>",
+            "heading_size": "h0"
+          }
+        },
+        "template--21365447164200__4ac64540-74b3-44b5-9333-7a5c222c4485-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Lorem ipsum dolor sit amet consectetur adipiscing elit quis, est suspendisse pellentesque laoreet cursus dignissim eros semper, ridiculus penatibus porttitor auctor cum.<\/p>",
+            "text_style": "subtitle"
+          }
+        },
+        "template--21365447164200__4ac64540-74b3-44b5-9333-7a5c222c4485-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop Now",
+            "button_link": "shopify:\/\/collections",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--21365447164200__4ac64540-74b3-44b5-9333-7a5c222c4485-heading-1",
+        "template--21365447164200__4ac64540-74b3-44b5-9333-7a5c222c4485-text-1",
+        "template--21365447164200__4ac64540-74b3-44b5-9333-7a5c222c4485-button-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/S2b7268d45794453eb5ba0c4c6635fc0am.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "ambient",
+        "mobile_content_alignment": "center",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "f1809f7c-f16d-4d1e-878d-fc1d5e128a6a": {
+      "type": "slideshow",
+      "blocks": {
+        "template--21365447164200__f1809f7c-f16d-4d1e-878d-fc1d5e128a6a-slide-1": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Brace_Kinetics_Logo-01.jpg",
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-left",
+            "show_text_box": true,
+            "text_alignment": "left",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "template--21365447164200__f1809f7c-f16d-4d1e-878d-fc1d5e128a6a-slide-2": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Brace_Kinetics_Logo-01.jpg",
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-left",
+            "show_text_box": true,
+            "text_alignment": "left",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--21365447164200__f1809f7c-f16d-4d1e-878d-fc1d5e128a6a-slide-1",
+        "template--21365447164200__f1809f7c-f16d-4d1e-878d-fc1d5e128a6a-slide-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "small",
+        "slider_visual": "dots",
+        "auto_rotate": true,
+        "change_slides_speed": 3,
+        "image_behavior": "ambient",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    }
+  },
+  "order": [
+    "image_banner",
+    "23a3273a-41ab-4936-8491-ca40a1699ad9",
+    "featured_collection",
+    "132ecb95-18b2-4a48-938d-f09e900474b1",
+    "0c1e562a-92ea-4b27-b012-58b2fec474ae",
+    "4ac64540-74b3-44b5-9333-7a5c222c4485",
+    "f1809f7c-f16d-4d1e-878d-fc1d5e128a6a"
+  ]
+}
